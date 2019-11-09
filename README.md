@@ -1,2 +1,2 @@
 # machine-learning-playground
-Check basic approaches on MINST and other sets
+Check basic approaches on MNIST and other sets
